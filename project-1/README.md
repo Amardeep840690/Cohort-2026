@@ -6,4 +6,4 @@ and basic web development practices.
 
 ## Preview
 
-![Resume Preview](/Resume-template.png)
+![Resume Preview](/project-1/Resume-template.png)

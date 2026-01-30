@@ -51,7 +51,7 @@ This repository contains a curated list of all my published and upcoming blogs �
 |----|-----------|--------|
 | 10 | **How a Browser Works: A Beginner-Friendly Guide to Browser Internals** | 🔗 [Read Blog](https://browser-basics-how-it-works.hashnode.dev/how-a-browser-works-a-beginner-friendly-guide-to-browser-internals) |
 | 11 | **Understanding HTML Tags and Elements** | 🔗 [Read Blog](https://a-guide-to-html-tags-and-elements.hashnode.dev/understanding-html-tags-and-elements) |
-| 12 | **CSS Selectors: Targeting Elements with Precision** | ⏳ *Coming Soon* |
+| 12 | **CSS Selectors: Targeting Elements with Precision** | 🔗 [Read Blog](https://css-selectors-the-basics.hashnode.dev/css-selectors-targeting-elements-with-precision) |
 | 13 | **Emmet for HTML: A Beginner’s Guide to Writing Faster Markup** |🔗 [Read Blog](https://writing-html-faster-with-emmet.hashnode.dev/emmet-for-html-a-beginners-guide-to-writing-faster-markup) |
 
 ---

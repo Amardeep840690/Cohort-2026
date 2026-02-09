@@ -2,6 +2,11 @@
 
 This project is a static recreation of the [Mintlify](https://mintlify.com/) landing page. It showcases a modern, dark-themed design focused on documentation platforms for the intelligence age.
 
+## Live Demo:  
+https://cohort-2026-x2rx.vercel.app/
+
+---
+
 ## Project Overview
 
 The landing page features:
